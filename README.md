@@ -10,7 +10,7 @@ A respectful tribute page for **SMG4**, where visitors can leave messages of tha
 - **Responsive design:** Optimized for desktop and mobile devices.
 - **Manual moderation:** Administrators can remove inappropriate messages directly from the Google Spreadsheet.
 
-## Demo
+## End Cake
 
 ![SMG4 Memorial Screenshot](smg4.png)
 
